@@ -1,0 +1,12 @@
+@font-face{
+	font-family: "aa";
+	src:url('fonts/Roboto/Roboto-Black.ttf');
+}
+@font-face{
+	font-family: "bb";
+	src:url('fonts/Roboto_Condensed/RobotoCondensed-Italic.ttf');
+}
+@font-face{
+	font-family: "cc";
+	src:url('fonts/Roboto-MediumItalic.ttf');
+}
